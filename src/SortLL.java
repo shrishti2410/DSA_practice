@@ -2,7 +2,7 @@
 //TC=O(2N)
 //SC=O(1)
 
-//Optimal-Create 3 m=nodes of zeros, ones, twos and then join them
+//Optimal-Create 3 nodes of zeros, ones, twos and then join them
 //TC=O(N)
 //SC=O(1)
 
