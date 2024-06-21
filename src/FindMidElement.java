@@ -3,7 +3,7 @@
 //SC=O(1)
 
 //Optimal-Tortoise n hare algorithm(slow n fast pointers)
-//slow pointer moves by 1 step and fast pointer moves by 2 steps
+//Slow pointer moves by 1 step and fast pointer moves by 2 steps
 //TC=
 //SC=
 
