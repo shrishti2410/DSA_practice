@@ -120,20 +120,6 @@ public class Add1ToLL {
         }
         return head;
     }
-    private static Node revLL(Node head){
-        Node temp=head, prev=null, front;
-        if(head==null || head.next==null){
-            return head;
-        } else {
-            while (temp!=null){
-                front=temp.next;
-                temp.next=prev;
-                prev=temp;
-                temp=front;
-            }
-            return prev;
-        }
-    }
     private static void print(Node head){
         while(head!=null){
             System.out.print(head.data+" ");

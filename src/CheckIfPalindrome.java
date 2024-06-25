@@ -61,11 +61,4 @@ public class CheckIfPalindrome  {
         }
         return head;
     }
-    private static void print(Node head){
-        while(head!=null){
-            System.out.print(head.data+" ");
-            head=head.next;
-        }
-        System.out.println();
-    }
 }
