@@ -6,8 +6,6 @@
 //TC-
 //SC-
 
-import java.sql.SQLOutput;
-
 public class LengthOfLoop {
     public static int detectCycle(Node head) {
         Node slow = head;
