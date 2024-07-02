@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/tuf_Greedy.iml" filepath="$PROJECT_DIR$/tuf_Greedy.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/tufLL.iml" filepath="$PROJECT_DIR$/tufLL.iml" />
+>>>>>>> 86f873d7f554dd5f94d07a672cc54c0f7761745f
     </modules>
   </component>
 </project>
