@@ -4,7 +4,7 @@
 
 //TC=O(log base(2) N)
 //SC=O(1)
-public class FindPeak {
+public class FindPeak_1 {
     public int findPeakElement(int[] nums) {
         int n=nums.length;
         int low=1, high=n-2, ans=0;
